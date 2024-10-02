@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="https://github.com/OIerKimi/PPTs-in-OI">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/ppin/?username=OIerKimi&repo=PPTs-in-OI&show_owner=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerKimi&repo=PPTs-in-OI&show_owner=true" />
       </a>
     </td>
     <td>
