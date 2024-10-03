@@ -44,8 +44,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerKimi&repo=Luogu-Payment&show_owner=true" />
       </a>
     </td>
-  </tr>
-  <td>
+    <td>
       <a href="https://github.com/OIerKimi/OI-Wiki">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerKimi&repo=OI-Wiki&show_owner=true" />
       </a>
