@@ -38,6 +38,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/OIerKimi/Luogu-Automatic-Payment">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerKimi&repo=Luogu-Automatic-Payment&show_owner=true" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ### Github Action
