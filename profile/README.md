@@ -62,15 +62,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/OIerOrg/memorandum">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=memorandum&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/OIerOrg/Chat">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=Chat&show_owner=true" />
+      <a href="https://github.com/OIerOrg/Flask-Example">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=Flask-Example&show_owner=true" />
       </a>
     </td>
   </tr>
