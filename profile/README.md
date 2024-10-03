@@ -9,8 +9,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/OIerOrg/OI-Problem">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=OI-Problem&show_owner=true" />
+      <a href="https://github.com/OIerOrg/OI-Problems">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=OI-Problems&show_owner=true" />
       </a>
     </td>
   </tr>
