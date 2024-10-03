@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-### Github Action
+### Python
 
 <table>
   <tr>
@@ -71,11 +71,6 @@
     <td>
       <a href="https://github.com/OIerOrg/Chat">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=Chat&show_owner=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/OIerOrg/Hydrooj">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=Hydrooj&show_owner=true" />
       </a>
     </td>
   </tr>
