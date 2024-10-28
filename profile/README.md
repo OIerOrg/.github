@@ -4,9 +4,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/OIerOrg/PPTs-in-OI">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=PPTs-in-OI&show_owner=true" />
-      </a>
+      因为某些原因，已经隐藏。
     </td>
     <td>
       <a href="https://github.com/OIerOrg/OI-Problems">
@@ -21,9 +19,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/OIerOrg/OI-Contest">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=OI-Contest&show_owner=true" />
-      </a>
+      因为某些原因，已经隐藏。
     </td>
   </tr>
   <tr>
@@ -74,14 +70,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/OIerOrg/dino">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=dino&show_owner=true" />
-      </a>
+      因为某些原因，已经隐藏。
     </td>
     <td>
-      <a href="https://github.com/OIerOrg/Wind">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=Wind&show_owner=true" />
-      </a>
+      因为某些原因，已经隐藏。
     </td>
   </tr>
 </table>
