@@ -4,22 +4,14 @@
 <table>
   <tr>
     <td>
-      因为某些原因，已经隐藏。
-    </td>
-    <td>
       <a href="https://github.com/OIerOrg/OI-Problems">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=OI-Problems&show_owner=true" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/OIerOrg/OI-Test">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=OI-Test&show_owner=true" />
       </a>
-    </td>
-    <td>
-      因为某些原因，已经隐藏。
     </td>
   </tr>
   <tr>
