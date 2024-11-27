@@ -32,6 +32,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=Luogu-Payment&show_owner=true" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/OIerOrg/jiangly">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OIerOrg&repo=jiangly&show_owner=true" />
+      </a>
+    </td>
   </tr>
 </table>
 
